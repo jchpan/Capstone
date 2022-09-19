@@ -1,2 +1,1 @@
 # Capstone
-Juncheng Pan
